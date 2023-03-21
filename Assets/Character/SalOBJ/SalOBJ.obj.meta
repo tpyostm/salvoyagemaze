@@ -1,28 +1,11 @@
 fileFormatVersion: 2
-guid: 05cc80d83e949fa418bc15c4cbca1168
+guid: 198ba55e4bed4c144b83e15789a4a018
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Hood1Mat
-    second: {fileID: 6830151484838369393, guid: c72ab6872bdc0ba4db1d9939a2c6142c,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: LinkHoodandModelMat
-    second: {fileID: 6830151484838369393, guid: b34b298b13f0b2647abdcb7a449c2c59,
-      type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: RealModelMat
-    second: {fileID: 2100000, guid: fb87eb772c8b70c4db6356ec84dbad1a, type: 2}
+  externalObjects: {}
   materials:
-    materialImportMode: 1
+    materialImportMode: 2
     materialName: 0
     materialSearch: 1
     materialLocation: 1
