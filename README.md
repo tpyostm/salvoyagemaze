@@ -4,7 +4,7 @@
 https://drive.google.com/drive/folders/1d2IUXX1KEn1KDXUCbuhdVq8NUc9gPntm?usp=sharing
 
 #วิดีโอ
-https://drive.google.com/file/d/1OSSwGiWTg5b4AlhV6Tgg6Xf1NPKdPTWl/view?usp=share_link
+https://drive.google.com/file/d/1Lzbm1xb2yzFjJ4Nxg92W-34Mjl624JBg/view?usp=share_link
 
 #ชื่อสมาชิก
 จิรภัทธ์ แซ่ตั้ง	2013210014
